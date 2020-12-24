@@ -1,0 +1,5 @@
+
+git init
+git add .  (.代表所有檔案 也可直接加入檔案)
+git remote add origin https://gitlab.com/x21530317x/hw2_02.git
+git push -u origin master內文要有中文字
